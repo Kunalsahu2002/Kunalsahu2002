@@ -96,12 +96,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Kunalsahu2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kunalsahu2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Kunalsahu2002&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kunalsahu2002&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kunalsahu2002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Kunalsahu2002&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
