@@ -106,48 +106,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 💰 [ExpenseIQ](https://github.com/Kunalsahu2002/Expense-IQ) — AI-Driven, Policy-Enforced Expense Tracker
-**[Live Demo](https://expense-iq-beige.vercel.app)** · Next.js · Node.js · Express · PostgreSQL (Prisma) · Redis · Gemini · Zod · Docker
-
-A production-style expense tracker built around a strict **"AI proposes, deterministic code decides"** guardrail — the core problem it solves is that LLMs hallucinate, so nothing from the model reaches the database unchecked.
-
-- 🛡️ Receipts are parsed by Gemini vision, then validated against a **Zod schema** before ever touching Postgres — invalid AI output is rejected at the boundary, not trusted.
-- 🔁 **SHA-256 deduplication** (Date + Amount + Vendor) blocks duplicate transaction writes independent of what the LLM says.
-- 📝 Append-only **audit trail** logs every prompt, response, model version, and latency for debugging hallucinations after the fact.
-- ⚡ **Redis-cached dashboard aggregations** and per-user rate limiting (10 req/min) on LLM endpoints.
-- 🐳 Multi-stage Dockerized backend on Render, Next.js frontend on Vercel.
-
-### 📈 [CryptoTrek](https://github.com/Kunalsahu2002/Crypto-Tracker) — Real-Time Cryptocurrency Tracker
-**[Live Demo](https://kunalsahu2002.github.io/Crypto-Tracker)** · React · Vite · Material UI · Chart.js · Axios · React Router
-
-A responsive crypto-tracking SPA consuming the live CoinGecko API.
-
-- 📊 Real-time prices, market caps, and 24h change for 100+ coins, with per-coin historical charts (1D–1Y) via **Chart.js**.
-- 🌗 Dark/light theme, USD/INR conversion, search, and pagination over large coin datasets.
-- 🧭 Client-side routing and an Axios-based API layer, deployed as a static SPA on GitHub Pages.
-
-<br/>
-
-## 🗂️ Other Repositories
-
-| Repo | Description |
-|---|---|
-| [Secure-Vault](https://github.com/Kunalsahu2002/Secure-Vault) | Password manager, shipped as two versions — a frontend-only build (React 19, local storage) and a full-stack build (React, Node.js, Express, MongoDB). |
-| [File-Sort](https://github.com/Kunalsahu2002/File-Sort) | Node.js file-organizing utility script. |
-
-> 📌 Your resume also lists **TaskTrek** and **Currency Converter** under "Other Projects," but I couldn't locate repos with those names on `Kunalsahu2002` — they may be private, renamed, or under a different account. Send me the links and I'll slot them in here.
-
-<br/>
-
-## 🏆 Achievements
-
-- 🎓 **Foundation For Excellence Scholar** (Dec 2021 – Mar 2025) — merit-based scholarship for academic excellence.
-- 📜 **Certifications:** Java & Spring Boot Training · Web Development
-
-<br/>
-
 ## 🔗 Connect With Me
 
 <p align="center">
