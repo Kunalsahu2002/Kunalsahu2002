@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Kunal Sahu
 
-<!--
-**Kunalsahu2002/Kunalsahu2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer with experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ React.js
+- 🟢 Node.js
+- 🟦 TypeScript
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- ☁️ AWS
+- 🔗 GraphQL
+
+### 🌱 Currently Learning
+- System Design
+- AWS Services
+- Microservices
+
+### 💼 Projects
+- AI-powered applications
+- E-commerce platforms
+- Full Stack SaaS applications
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
+- Email: your@email.com
