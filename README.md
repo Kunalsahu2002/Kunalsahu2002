@@ -96,31 +96,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunalsahu2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalsahu2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Kunalsahu2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kunalsahu2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsahu2002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Kunalsahu2002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunalsahu2002&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunalsahu2002/Kunalsahu2002/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunalsahu2002/Kunalsahu2002/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Kunalsahu2002/Kunalsahu2002/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-> ⚠️ **Setup required** — this only renders after the `snake.yml` workflow (included in this delivery) runs once on a repo named exactly `Kunalsahu2002/Kunalsahu2002`. See the setup note at the end of this message.
 
 <br/>
 
